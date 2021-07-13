@@ -16,3 +16,7 @@ yarn dev
 # or
 npm run dev
 ```
+
+## More tutorials and walkthroughs
+* [Follow me on Twitter](https://twitter.com/colbyfayock)
+* [Subscribe on YouTube](https://www.youtube.com/colbyfayock)

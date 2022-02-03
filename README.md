@@ -1,4 +1,4 @@
-# My SWAPI Search Demo
+# Demo SWAPI Search Starter
 
 Demo Next.js application to get a quick project up and running including a search input and basic autocomplete for The Star Wars API (SWAPI).
 
